@@ -187,11 +187,6 @@ plt.show()
 
 ---
 
-### Example Output
-
-<p align="center">
-  <img src="confusion_matrix.png" alt="Confusion Matrix" width="500"/>
-</p>
 
 ### Why This Matters
 
